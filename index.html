@@ -10,21 +10,14 @@
       margin: 0;
       padding: 0;
       font-family: 'Arial', sans-serif;
-      background: linear-gradient(135deg, #0074D9, #1A1A1A, #0074D9);
-      background-size: 400% 400%;
-      animation: gradient-animation 15s ease infinite; 
+      background: url('back.png') no-repeat center center fixed;
+      background-size: cover;
       display: flex;
       align-items: center;
       justify-content: center;
       height: 100vh;
       max-width: 100vw;
       color: #fff;
-    }
-
-    @keyframes gradient-animation {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
     }
 
     #profile-box {
@@ -102,7 +95,7 @@
 </head>
 <body>
   <div id="profile-box">
-    <img src="https://i.imgur.com/AkzFCwJ.jpeg" alt="Profile Picture">
+    <img src="https://i.imgur.com/5VRac1r.jpeg" alt="Profile Picture">
     <h2>Ahmed AlGhrbi</h2>
     <p>سبحان الله وبحمده</p>
     <div class="button-container">
