@@ -1,3 +1,42 @@
+Package: com.fouadraheb.watusi3
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Description: The all-in-one tweak for WhatsApp Messenger
+Section: Tweaks
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+Architecture: iphoneos-arm64e
+Version: 1.2.44
+Installed-Size: 6688
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.fouadraheb.watusi3_1.2.44_iphoneos-arm64e.deb
+Size: 1961212
+MD5: 729ab97afb79b44ce64e2cb97ca44c2d
+SHA1: 43fba194e2d22ed5d68ebf4c1fffe59b96f20fc1
+SHA256: 8db637674eead38c1a25d3f0bdc2d8cd2703ed24f33105b2812b7afe91ec5bf3
+SHA512: 885f9c862af0af89940869b070b95b49f8a43f962e616e0df186b64908d68a929020347f71daf54e306be201006e1bd6ffca3235f5f2daf4ea41204ee6fcc1b9
+
+Package: com.fouadraheb.watusi3
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Description: The all-in-one tweak for WhatsApp Messenger
+Section: Tweaks
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+Architecture: iphoneos-arm64
+Version: 1.2.44
+Installed-Size: 6688
+Filename: ./debs/com.fouadraheb.watusi3_1.2.44_iphoneos-arm64.deb
+Size: 1978412
+MD5: bf8f29e7a627ebd8121e9e3540cd95c9
+SHA1: 987e986b3dc4c174e9203fac3fdb9445d7927673
+SHA256: 28401865b98e7978d43b274981b239836e129e82caf93931b1725d99f533332a
+SHA512: 582d4e931155e5adb3ea5d011f5f011b3894c9d4fdaee88013bbf3a60753eeedbeaa6eb67d82ca2885ac773c79cb8d4d9671200850ad1e70b4ea4ff4f0a3ace1
+
 Package: me.ikghd.inkplus
 Name: iNKillerPlus
 Description: a whole new Instagram Experience!
