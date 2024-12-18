@@ -3,6 +3,42 @@ Name: Watusi 3 for WhatsApp
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Description: The all-in-one tweak for WhatsApp Messenger
 Section: Tweaks
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.37), com.muirey03.libmryipc
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+Architecture: iphoneos-arm
+Version: 1.2.42
+Installed-Size: 7208
+Filename: ./debs/com.fouadraheb.watusi3_1.2.42_iphoneos-arm.deb
+Size: 2194972
+MD5: 5a4c54da8482a369fcb710cac88b11d9
+SHA1: 9acfdf91d3ea056c378107a29b5668e5c87b016a
+SHA256: b7d0ff9f16b2c8fcc113c49b8dc692239c85489f1e747650f249952692a40763
+SHA512: ce458ea1ee962767e2f7f7ec7360df03eb013c68aff986cddd7f7cd89ca9b02a72fd426b2a1f55264105f18e7618e1ecf43620d6e81ea5d14d96db1699a37504
+
+Package: com.f0u4d.watusitools
+Name: WatusiTools
+Version: 2.4.38
+Description: Library for Watusi, Regram and other tweaks
+Depends: firmware (>= 14.0)
+Section: Development
+Architecture: iphoneos-arm
+Author: Fouad Raheb <support@fouadraheb.com>
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Filename: ./debs/com.f0u4d.watusitools_2.4.38_iphoneos-arm.deb
+Size: 4496744
+MD5: 6184ee43b550d078a7f4906d3044a4f5
+SHA1: 795d5645fa264af28df45446c9c9cb1720a0ff8a
+SHA256: ab80c55a30a5d5d4cbbd7488b74372eb1d927c3bc4fe9eb4de5ca500b55865da
+SHA512: 37043ea13900c1bc65cfe2af3964dec203c6778b3ffa796bf284c73a0921d2f13cfce9c13801570a0153d1807ebe0dfb110e2b82678659bb2a83902719f9f176
+
+Package: com.fouadraheb.watusi3
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Description: The all-in-one tweak for WhatsApp Messenger
+Section: Tweaks
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.40)
 Author: Fouad Raheb <support@fouadraheb.com>
 Maintainer: Fouad Raheb <support@fouadraheb.com>
